@@ -1,0 +1,7 @@
+cedant_id,nama_tertanggung,alamat,tsi,share,periode_mulai,periode_akhir,jenis_pertanggungan,nomor_dokumen
+CDT-A,PT Kenari Jaya,Jl. Sudirman 5 Jakarta,500000000,0.30,2026-01-01,2026-12-31,struktur,POL-A-001
+CDT-B,PT Kenari Jaya,Jl. Sudirman No. 5 Jakarta,500000000,0.40,2026-01-01,2026-12-31,struktur,POL-B-007
+CDT-C,PT Kenari Jaya,"Jl. Sudirman 5,Jakarta",500000000,0.30,2026-01-01,2026-12-31,struktur,POL-C-003
+CDT-A,PT Kenari Jaya,Jl. Sudirman 5 Jakarta,500000000,0.60,2026-01-01,2026-12-31,isi,POL-A-001
+CDT-B,PT Melati,Jl. Thamrin 10 Jakarta,300000000,0.50,2026-01-01,2026-12-31,struktur,POL-B-012
+CDT-C,PT Melati,Jl. Thamrin 10 Jakarta,300000000,0.30,2026-01-01,2026-12-31,struktur,POL-C-009
